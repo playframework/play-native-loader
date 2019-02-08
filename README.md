@@ -22,6 +22,6 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 ## Support
 
-The Play Mailer library is *[Community Driven][]*.
+The play-native-loader library is *[Community Driven][]*.
 
 [Community Driven]: https://developer.lightbend.com/docs/reactive-platform/2.0/support-terminology/index.html#community-driven
