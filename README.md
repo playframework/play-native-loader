@@ -2,6 +2,15 @@
 
 This is a very small library that makes it possible to use native libraries with Play. Since Play uses its own class loader for `run` command, we need an external library that loads the native libraries in the same class loader that is used by the classes.
 
+# End of Life
+
+The active Playframework contributors consider this repository has reached End of Life and can be archived. If you want to develop this library further, feel free to reach out.
+
+**We'll archive this repository by End of July 2020.**
+
+Thank you to all contributors that worked on this repository!
+
+
 ## Installation
 
 To use it, please add the following dependency to your project's `build.sbt` or `project/Build.scala` file:
@@ -20,8 +29,3 @@ Licensed under the Apache License, Version 2.0 (the "License"); you may not use 
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
-## Support
-
-The play-native-loader library is *[Community Driven][]*.
-
-[Community Driven]: https://developer.lightbend.com/docs/lightbend-platform/introduction/getting-help/support-terminology.html#community-driven
