@@ -1,14 +1,15 @@
+# End of Life
+
+The active Playframework contributors consider this repository has reached End of Life and archived it.
+
+This repository is not being used anymore and won't get any further updates.
+
+Thank you to all contributors that worked on this repository!
+
+
 # Play Native Loader
 
 This is a very small library that makes it possible to use native libraries with Play. Since Play uses its own class loader for `run` command, we need an external library that loads the native libraries in the same class loader that is used by the classes.
-
-# End of Life
-
-The active Playframework contributors consider this repository has reached End of Life and can be archived. If you want to develop this library further, feel free to reach out.
-
-**We'll archive this repository by End of July 2020.**
-
-Thank you to all contributors that worked on this repository!
 
 
 ## Installation
